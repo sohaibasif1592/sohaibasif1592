@@ -23,7 +23,5 @@
 <p><a href="https://www.buymeacoffee.com/sohaibasif1592"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohaibasif1592" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibasif1592&show_icons=true&locale=en&layout=compact" alt="sohaibasif1592" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaibasif1592&show_icons=true&locale=en" alt="sohaibasif1592" /></p>
 
